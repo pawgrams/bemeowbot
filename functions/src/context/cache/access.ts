@@ -1,0 +1,17 @@
+export const _group: number         = Number(process?.env['']) || 0;
+export const _openai: string        = String(process?.env['']) || '';
+export const _chat: string          = String(process?.env['']) || '';
+export const _image: string         = String(process?.env['']) || '';
+export const _post: string          = String(process?.env['']) || '';
+export const _finetune: string      = String(process?.env['']) || '';
+export const _lyrics: string        = String(process?.env['']) || '';
+export const _translate: string     = String(process?.env['']) || '';
+export const _intensify: string     = String(process?.env['']) || '';
+export const _curation: string      = String(process?.env['']) || '';
+export const _botfather: string     = String(process?.env['']) || '';
+export const _replicate: string     = String(process?.env['']) || '';
+export const _sunoace: string       = String(process?.env['']) || '';
+export const _sunoauth: string      = String(process?.env['']) || '';  
+export const _sunohook: string      = String(process?.env['']) || '';
+export const _tgauth: string        = String(process?.env['']) || '';
+export const _allowedIPs: string[]  = ['', ''];
