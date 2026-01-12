@@ -222,20 +222,9 @@
 - => Temporary Design Decision => Trade-Off: no menu spamming <-> navigation interruption <-> no functional interruption.
 - => On higher user activity: user-driven threads and/or off-group-usage could be implemented
 
-<img src="./functions/screenshots/mainmenu.jpg" height="350px"><img src="functions/screenshots/studio.jpg" height="350px"><img src="functions/screenshots/genres.jpg" height="350px">
+<img src="./functions/screenshots/mainmenu.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/studio.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/genres.jpg" height="400px">
 
-
-![mainmenu](functions/screenshots/mainmenu.jpg)
-
-![studio](functions/screenshots/studio.jpg)
-
-![genres](functions/screenshots/genres.jpg)
-
-![subgenres](functions/screenshots/subgenres.jpg)
-
-![languages](functions/screenshots/languages.jpg)
-
-![links](functions/screenshots/links.jpg)
+<img src="./functions/screenshots/subgenres.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/languages.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/links.jpg" height="400px">
 
 ---
 
