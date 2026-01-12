@@ -132,7 +132,7 @@
 - Allows for custom prompts or no-prompt generations.
 - Assistant prompt contains guardrails to protect the brand from harmful illustration.
 
-![image](functions/screenshots/image.jpg)
+<img src="./functions/screenshots/image.jpg" height="400px" hspace="25">
 
 ---
 
@@ -151,6 +151,7 @@
 - Contains a share button, which enables user to share a tweet within two clicks (if they are logged in to X)
 - Supports any language, supported by OpenAI (prompt language = tweet language, unless user prompt demands for another tweet language)
 - Assistant prompt contains guardrails to protect the project brand and mascot from harmful statements.
+
 
 ![tweet](functions/screenshots/tweet.jpg)
 
@@ -174,9 +175,8 @@
     - d) Fantasy Artists: Intentional hallucination, based on fictive artist names, stereotypically representing topics and song style.
     - Exception => 'exotic': One simple prompt, if user picks a language, exceeding OpenAI's capabilities, e.g. ancient egyptian (poorly documented).
 
-![lyrics_robot](functions/screenshots/lyrics_robot.jpg)
 
-![lyrics_swiss](functions/screenshots/lyrics_swiss.jpg)
+<img src="./functions/screenshots/lyrics_robot.jpg" height="400px" hspace="25"><img src="./functions/screenshots/lyrics_swiss.jpg" height="400px" hspace="25">
 
 --- 
 
@@ -193,7 +193,7 @@
     - the most essential statement in the lyrics, or
     - associated from the song style on instrumental requests.
 
-![music](functions/screenshots/music.jpg)
+<img src="./functions/screenshots/music.jpg" height="400px" hspace="25">
 
 --- 
 
@@ -222,9 +222,9 @@
 - => Temporary Design Decision => Trade-Off: no menu spamming <-> navigation interruption <-> no functional interruption.
 - => On higher user activity: user-driven threads and/or off-group-usage could be implemented
 
-<img src="./functions/screenshots/mainmenu.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/studio.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/genres.jpg" height="400px">
+<img src="./functions/screenshots/mainmenu.jpg" height="400px" hspace="25"><img src="functions/screenshots/studio.jpg" height="400px" hspace="25"><img src="functions/screenshots/genres.jpg" height="400px">
 
-<img src="./functions/screenshots/subgenres.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/languages.jpg" height="400px" style="margin-right:50px"><img src="functions/screenshots/links.jpg" height="400px">
+<img src="./functions/screenshots/subgenres.jpg" height="400px" hspace="25"><img src="functions/screenshots/languages.jpg" height="400px" hspace="25"><img src="functions/screenshots/links.jpg" height="400px">
 
 ---
 
